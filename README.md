@@ -42,4 +42,8 @@ Login Succeeded!
 
 http://sso.int.shifti.us:8080/auth/admin
 
+You’ll land in the Master realm by default.
 ![SSO](images/sso-01.png)
+
+Click the **Master** realm name on top left  
+![SSO](images/sso-02.png)
