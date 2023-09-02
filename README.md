@@ -52,3 +52,6 @@ click the **Add Realm** buttom from the dropdown menu
 Type your new realm name (e.g. “Tower”) and click the **Create** button
 
 ![SSO](images/sso-03.png)
+
+Once created, you’ll land in the Tower realm
+![SSO](images/sso-04.png)
