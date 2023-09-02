@@ -47,3 +47,8 @@ You’ll land in the Master realm by default.
 
 Click the **Master** realm name on top left  
 ![SSO](images/sso-02.png)
+
+click the **Add Realm** buttom from the dropdown menu
+Type your new realm name (e.g. “Tower”) and click the **Create** button
+
+![SSO](images/sso-03.png)
