@@ -123,3 +123,5 @@ Organizational Unit Name (eg, section) []:GPS
 Common Name (eg, your name or your server's hostname) []:sso.int.shifti.us
 Email Address []:root@localhost
 ```
+
+https://www.ansible.com/blog/red-hat-single-sign-on-integration-with-ansible-tower
