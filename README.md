@@ -125,3 +125,7 @@ Email Address []:root@localhost
 ```
 
 https://www.ansible.com/blog/red-hat-single-sign-on-integration-with-ansible-tower
+
+https://liveaverage.com/blog/configure-ansible-tower-saml-authentication-with-keycloak/
+
+https://www.insentragroup.com/us/insights/geek-speak/modern-workplace/how-to-configure-ansible-automation-saml-sso-with-red-hat-sso/
