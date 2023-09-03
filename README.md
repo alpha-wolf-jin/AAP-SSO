@@ -133,3 +133,7 @@ https://www.insentragroup.com/us/insights/geek-speak/modern-workplace/how-to-con
 https://docs.ansible.com/automation-controller/latest/html/userguide/job_templates.html#ug-jt-enable-webhooks
 
 https://medium.com/@sazipkin/setting-up-ansible-tower-with-okta-a132644be980
+
+https://www.ansible.com/blog/using-saml-with-red-hat-ansible-tower
+
+https://www.ansible.com/blog/using-two-factor-saml-with-ansible-tower
